@@ -1,3 +1,11 @@
+https://img.shields.io/github/languages/count/pignuante/survive 
+https://img.shields.io/github/languages/top/pignuante/survive
+https://img.shields.io/github/languages/code-size/pignuante/survive
+https://img.shields.io/github/repo-size/pignuante/survive
+https://img.shields.io/github/issues/pignuante/survive
+https://img.shields.io/github/issues-closed/pignuante/survive
+https://img.shields.io/github/commit-activity/w/pignuante/survive
+https://img.shields.io/github/last-commit/pignuante/survive
 
 [![Pignu's github stats](https://github-readme-stats.vercel.app/api?username=pignuante&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
