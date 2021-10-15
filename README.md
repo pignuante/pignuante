@@ -1,5 +1,6 @@
 
-<p align="center">
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=PignuAnte&fontSize=90)
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=syaoran215)](https://solved.ac/syaoran215/)
 
 [![Pignu's github stats](https://github-readme-stats.vercel.app/api?username=pignuante&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
@@ -32,4 +33,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pignuante)](https://github.com/pignuante/github-readme-stats)
 
 
-</p>
+![footer](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=300&section=header&text=PignuAnte&fontSize=90)
