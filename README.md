@@ -27,3 +27,5 @@
 <img src="https://img.shields.io/badge/Vuetifys-1867C0?style=flat-square&logo=Vuetifys&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pignuante)](https://github.com/pignuante/github-readme-stats)
+
