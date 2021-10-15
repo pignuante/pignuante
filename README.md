@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=PignuAnte&fontSize=90" alt="header" style = "width:100%"/>
 </p>
 <p align="center">🇰🇷 🇨🇭 🇯🇵 🇿🇦 🇫🇷 🇿🇼 🇿🇲 🏴‍☠️ </p>
-<h3 align="center"> Tech Stack </h3>
+
 <p align="center"> Wanderer </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 </p>
 
 <br/>
-
+<h3 align="center"> Tech Stack </h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
 <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white"/>
