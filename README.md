@@ -7,8 +7,9 @@
 <h3 align="center"> Tech Stack </h3>
 <p align="center"> Wanderer </p>
 
+<div align="center" style="text-align:center">
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=syaoran215)](https://solved.ac/syaoran215/)
-
+</div>
 [![Pignu's github stats](https://github-readme-stats.vercel.app/api?username=pignuante&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 
