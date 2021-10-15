@@ -7,5 +7,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpignuante)](https://hits.seeyoufarm.com)
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/go-3766AB?style=flat-square&logo=Go&logoColor=white"/></a>
+
 <img src="https://img.shields.io/github/languages/top/pignuante/algorithms"/></a>
  
