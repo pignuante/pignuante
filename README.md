@@ -1,15 +1,14 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=PignuAnte&fontSize=90" alt="header"/>
-
 </p>
 <p align="center">🇰🇷 🇨🇭 🇯🇵 🇿🇦 🇫🇷 🇿🇼 🇿🇲 🏴‍☠️ </p>
 <h3 align="center"> Tech Stack </h3>
 <p align="center"> Wanderer </p>
 
-<div align="center" style="text-align:center">
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=syaoran215)](https://solved.ac/syaoran215/)
-</div>
+
 [![Pignu's github stats](https://github-readme-stats.vercel.app/api?username=pignuante&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 
@@ -46,6 +45,6 @@
                                                                                              
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pignuante)](https://github.com/pignuante/github-readme-stats)
 
-
-![footer](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=50&section=header&text=PignuAnte&fontSize=30)
-                                                                                                 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=50&section=header&text=PignuAnte&fontSize=30" alt="footer"/>
+</p>
