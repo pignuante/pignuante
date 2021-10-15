@@ -1,6 +1,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=PignuAnte&fontSize=90)
 
+<h3 align="center"> Tech Stack </h3>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=syaoran215)](https://solved.ac/syaoran215/)
 
 [![Pignu's github stats](https://github-readme-stats.vercel.app/api?username=pignuante&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
