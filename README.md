@@ -48,8 +48,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pignuante" alt="Top Langs">
 </p>
-             
+
+<p align="center">
 <a href="mailto:hanyul.ryu.kr@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=hanyul.ryu.kr@gmail.com"/></a>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=50&section=header&text=Thanks&fontSize=30" alt="footer"/>
