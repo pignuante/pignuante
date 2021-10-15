@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=PignuAnte&fontSize=90" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=PignuAnte&fontSize=90" alt="header" style = "width:100%"/>
 </p>
 <p align="center">🇰🇷 🇨🇭 🇯🇵 🇿🇦 🇫🇷 🇿🇼 🇿🇲 🏴‍☠️ </p>
 <h3 align="center"> Tech Stack </h3>
@@ -45,8 +45,10 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 </p>
 
-                                                                                             
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pignuante)](https://github.com/pignuante/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pignuante" alt="Top Langs">
+</p>
+                                                                                          
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=50&section=header&text=PignuAnte&fontSize=30" alt="footer"/>
