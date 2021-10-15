@@ -9,12 +9,13 @@
 <p align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=syaoran215" alt="Solved.ac Profile">
 </p>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=syaoran215)](https://solved.ac/syaoran215/)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pignuante&show_icons=true&theme=cobalt" alt="Pignu's github stats">
+</p>
 
-[![Pignu's github stats](https://github-readme-stats.vercel.app/api?username=pignuante&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpignuante)](https://hits.seeyoufarm.com)
+<p align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpignuante" alt="Hits">
+</p>
 
 <br/>
 
