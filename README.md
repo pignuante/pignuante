@@ -33,4 +33,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pignuante)](https://github.com/pignuante/github-readme-stats)
 
 
-![footer](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=100&section=header&text=PignuAnte&fontSize=90)
+![footer](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=50&section=header&text=PignuAnte&fontSize=30)
