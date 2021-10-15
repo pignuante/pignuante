@@ -51,5 +51,5 @@
                                                                                           
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=50&section=header&text=PignuAnte&fontSize=30" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=50&section=header&text=Thanks&fontSize=30" alt="footer"/>
 </p>
