@@ -3,11 +3,11 @@
 
 <h3 align="center"> Tech Stack </h3>
 
-<div align="center" style="text-align:center">
+
     [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=syaoran215)](https://solved.ac/syaoran215/)
     [![Pignu's github stats](https://github-readme-stats.vercel.app/api?username=pignuante&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
     [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpignuante)](https://hits.seeyoufarm.com)
-</div>
+
 
 <p align="center">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>
@@ -32,9 +32,9 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
 </p>
 
-                                                                                                 
+<div align="center" style="text-align:center">                                                                                             
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pignuante)](https://github.com/pignuante/github-readme-stats)
-
+</div>
 
 ![footer](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=50&section=header&text=PignuAnte&fontSize=30)
                                                                                                  
