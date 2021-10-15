@@ -17,3 +17,11 @@
 <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=Vim&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Vuetifys-1867C0?style=flat-square&logo=Vuetifys&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=Nuxt.js&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Vuetifys-1867C0?style=flat-square&logo=Vuetifys&logoColor=white"/></a>
+
+
+
+
