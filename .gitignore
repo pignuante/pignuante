@@ -1150,3 +1150,51 @@ $RECYCLE.BIN/
 # Sonarlint plugin
 
 # End of https://www.toptal.com/developers/gitignore/api/python,git,windows,linux,osx,macos,java,c++,c,vim,pycharm+all,webstorm+all,jetbrains+all,node,venv,virtualenv,dotenv,gitbook,go,emacs,vue,vuejs,react,reactnative,nuxtjs,nuxt,julia,r,matlab,sas,sass
+
+### AI Tools ###
+# Claude Code
+.claude/
+
+# Cursor
+.cursor/
+.cursorignore
+
+# GitHub Copilot
+.copilot/
+
+# Aider
+.aider*
+
+### Rust ###
+target/
+**/*.rs.bk
+
+### pnpm ###
+pnpm-lock.yaml
+.pnpm-store/
+
+### Bun ###
+bun.lockb
+.bun/
+
+### Turborepo ###
+.turbo/
+
+### Biome ###
+.biome/
+
+### VSCode ###
+.vscode/
+*.code-workspace
+
+### Environment ###
+.env.local
+.env.*.local
+.env.development
+.env.production
+
+### Misc ###
+*.swp
+*.swo
+.history/
+.ionide/

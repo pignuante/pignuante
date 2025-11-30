@@ -6,6 +6,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7931E&center=true&vCenter=true&width=600&lines=Research+Engineer;Cryptography+Engineer;Full+Stack+Developer;Homomorphic+Encryption+Researcher;Open+Source+Contributor;Privacy+Preserving+AI+Developer" alt="Typing SVG"/>
 </p>
 
+<!-- About Me -->
+<h3 align="center">💫 About Me</h3>
+<p align="center">
+  <em>"The Programmer writing poetry in RAM"</em>
+</p>
+
+<br/>
+
 <p align="center">
   <a href="https://github.com/pignuante">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -100,13 +108,31 @@
   <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
 </p>
 
+<!-- Database -->
+<h3 align="center">🗄️ Database</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
+</p>
+
+<!-- Cloud -->
+<h3 align="center">☁️ Cloud</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+</p>
+
 <!-- Cryptography -->
 <h3 align="center">🔐 Cryptography</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Homomorphic_Encryption-4A154B?style=for-the-badge&logo=letsencrypt&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FHE-2C3E50?style=for-the-badge&logo=gnuprivacyguard&logoColor=white"/>
   <img src="https://img.shields.io/badge/Privacy_Preserving_AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
+
 
 <!-- Tools -->
 <h3 align="center">🛠 Tools & Platforms</h3>
