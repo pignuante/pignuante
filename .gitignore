@@ -1200,5 +1200,5 @@ bun.lockb
 .ionide/
 
 ### Local agent/tool state ###
+# (.claude/ is already covered by the "AI Tools" section above)
 .omc/
-.claude/
