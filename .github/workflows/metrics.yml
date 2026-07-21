@@ -6,10 +6,8 @@
 name: Metrics
 
 on:
-  # Manual only until METRICS_TOKEN exists — a scheduled run without the secret
-  # would fail every night. Add the schedule below once the secret is set:
-  #   schedule:
-  #     - cron: "0 18 * * *"
+  schedule:
+    - cron: "0 18 * * *"
   workflow_dispatch:
 
 jobs:
@@ -36,4 +34,7 @@ jobs:
           plugin_languages_limit: 8
 
           # lines of code changed
+          # the GitHub endpoint returns 0s on the first query while it builds
+          # its cache, so query again after a delay (see the plugin docs)
           plugin_lines: yes
+          plugin_lines_delay: 30
