@@ -1,0 +1,39 @@
+# Requires a personal access token stored as the `METRICS_TOKEN` repository secret.
+# The repository-scoped `secrets.GITHUB_TOKEN` is NOT enough: this action reads
+# user-level data (activity, organizations, ...) that a repo token cannot access.
+# No scopes are required for the public metrics used below.
+#   Settings -> Secrets and variables -> Actions -> New repository secret
+name: Metrics
+
+on:
+  # Manual only until METRICS_TOKEN exists — a scheduled run without the secret
+  # would fail every night. Add the schedule below once the secret is set:
+  #   schedule:
+  #     - cron: "0 18 * * *"
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: ${{ github.repository_owner }}
+          filename: github-metrics.svg
+          template: classic
+          base: header, activity, community, repositories, metadata
+
+          # isometric commit calendar
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          # language breakdown
+          plugin_languages: yes
+          plugin_languages_details: percentage
+          plugin_languages_limit: 8
+
+          # lines of code changed
+          plugin_lines: yes
