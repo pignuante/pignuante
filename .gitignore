@@ -1198,3 +1198,7 @@ bun.lockb
 *.swo
 .history/
 .ionide/
+
+### Local agent/tool state ###
+.omc/
+.claude/
